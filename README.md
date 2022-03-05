@@ -18,3 +18,5 @@ Big thanks to our contributors:
 + Sasha Alex Muntis - Translator
 + Russ Fogle - Illustrator
 + Andrew Wagoner - Logistical Support
+
+слава Україні
