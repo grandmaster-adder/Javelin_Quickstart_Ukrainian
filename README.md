@@ -7,5 +7,5 @@ Version one is available currently in [Ukrainian](https://github.com/grandmaster
  and [English](https://github.com/grandmaster-adder/Javelin_Quickstart_Ukranian/blob/main/Javelin_Close_Combat_Missile_System_Instruction_Manual.pdf)
 
 
-![Sample](https://github.com/grandmaster-adder/Javelin_Quickstart_Ukranian/blob/main/images/javelinmanual.png)
+![Sample](https://github.com/grandmaster-adder/Javelin_Quickstart_Ukrainian/blob/main/images/repo-preview-image.JPG)
 
