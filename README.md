@@ -11,10 +11,10 @@ Version one is available currently in [Ukrainian](https://github.com/grandmaster
 
 Big thanks to our contributors:
 
-Ian Gerard - Project Lead
-Cpt. Russell Kimberling (US Army, Ret.) - Javelin Advisor
-Mark Jackson - Designer
-Maj. Alex Gerard (USAF, Ret.) - Advisor
-Sasha Alex Muntis - Translator
-Russ Fogle - Illustrator
-Andrew Wagoner - Logistical Support
++ Ian Gerard - Project Lead
++ Cpt. Russell Kimberling (US Army, Ret.) - Javelin Advisor
++ Mark Jackson - Designer
++ Maj. Alex Gerard (USAF, Ret.) - Advisor
++ Sasha Alex Muntis - Translator
++ Russ Fogle - Illustrator
++ Andrew Wagoner - Logistical Support
