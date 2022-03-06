@@ -14,7 +14,6 @@ Big thanks to our contributors:
 + Ian Gerard - Project Lead
 + Cpt. Russell Kimberling (US Army, Ret.) - Javelin Advisor
 + Mark Jackson - Designer
-+ Maj. Alex Gerard (Air National Guard) - Technical Writing & Training Advisor
 + Sasha Alex Muntis - Translator
 + Russ Fogle - Illustrator
 + Andrew Wagoner - Logistical Support
